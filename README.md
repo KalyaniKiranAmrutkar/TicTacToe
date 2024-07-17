@@ -10,3 +10,7 @@ The game is played on a grid that is 3 squares by 3 squares
 You are X, your friend is O. Players take turns putting their marks in empty squares
 The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner
 When all 9 squares are full, the game is over.
+
+![Capture4](https://github.com/user-attachments/assets/27cde1f6-7788-420b-acb2-0162717fad0e)
+
+
